@@ -1,1 +1,1 @@
-![Here is my Linkedin Profile] (https://www.linkedin.com/in/mattseech/)
+(https://www.linkedin.com/in/mattseech/)
