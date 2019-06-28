@@ -1,0 +1,1 @@
+![Image of Yaktocat He is Pretty Cool](https://octodex.github.com/images/yaktocat.png)
