@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My name is **Matthew Seecharan**, I am originally from *Trinidad and Tobago*, but grew up in the *Bronx, New York!* (ah ah ah) I love traveling, wine and hanging with good people. Finally, i am in an intense bootcamp to become a **Software Engineer!** 
